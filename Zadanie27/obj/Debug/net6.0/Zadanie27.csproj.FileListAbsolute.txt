@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\DZ4\Zadanie27\bin\Debug\net6.0\Zadanie27.exe
+C:\Users\user\Desktop\DZ4\Zadanie27\bin\Debug\net6.0\Zadanie27.deps.json
+C:\Users\user\Desktop\DZ4\Zadanie27\bin\Debug\net6.0\Zadanie27.runtimeconfig.json
+C:\Users\user\Desktop\DZ4\Zadanie27\bin\Debug\net6.0\Zadanie27.dll
+C:\Users\user\Desktop\DZ4\Zadanie27\bin\Debug\net6.0\Zadanie27.pdb
+C:\Users\user\Desktop\DZ4\Zadanie27\obj\Debug\net6.0\Zadanie27.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\DZ4\Zadanie27\obj\Debug\net6.0\Zadanie27.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\DZ4\Zadanie27\obj\Debug\net6.0\Zadanie27.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\DZ4\Zadanie27\obj\Debug\net6.0\Zadanie27.AssemblyInfo.cs
+C:\Users\user\Desktop\DZ4\Zadanie27\obj\Debug\net6.0\Zadanie27.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\DZ4\Zadanie27\obj\Debug\net6.0\Zadanie27.dll
+C:\Users\user\Desktop\DZ4\Zadanie27\obj\Debug\net6.0\refint\Zadanie27.dll
+C:\Users\user\Desktop\DZ4\Zadanie27\obj\Debug\net6.0\Zadanie27.pdb
+C:\Users\user\Desktop\DZ4\Zadanie27\obj\Debug\net6.0\Zadanie27.genruntimeconfig.cache
+C:\Users\user\Desktop\DZ4\Zadanie27\obj\Debug\net6.0\ref\Zadanie27.dll

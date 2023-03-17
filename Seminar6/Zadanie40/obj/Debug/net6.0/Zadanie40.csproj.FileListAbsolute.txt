@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Seminar6\Zadanie40\bin\Debug\net6.0\Zadanie40.exe
+C:\Users\user\Desktop\Seminar6\Zadanie40\bin\Debug\net6.0\Zadanie40.deps.json
+C:\Users\user\Desktop\Seminar6\Zadanie40\bin\Debug\net6.0\Zadanie40.runtimeconfig.json
+C:\Users\user\Desktop\Seminar6\Zadanie40\bin\Debug\net6.0\Zadanie40.dll
+C:\Users\user\Desktop\Seminar6\Zadanie40\bin\Debug\net6.0\Zadanie40.pdb
+C:\Users\user\Desktop\Seminar6\Zadanie40\obj\Debug\net6.0\Zadanie40.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Seminar6\Zadanie40\obj\Debug\net6.0\Zadanie40.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Seminar6\Zadanie40\obj\Debug\net6.0\Zadanie40.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Seminar6\Zadanie40\obj\Debug\net6.0\Zadanie40.AssemblyInfo.cs
+C:\Users\user\Desktop\Seminar6\Zadanie40\obj\Debug\net6.0\Zadanie40.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Seminar6\Zadanie40\obj\Debug\net6.0\Zadanie40.dll
+C:\Users\user\Desktop\Seminar6\Zadanie40\obj\Debug\net6.0\refint\Zadanie40.dll
+C:\Users\user\Desktop\Seminar6\Zadanie40\obj\Debug\net6.0\Zadanie40.pdb
+C:\Users\user\Desktop\Seminar6\Zadanie40\obj\Debug\net6.0\Zadanie40.genruntimeconfig.cache
+C:\Users\user\Desktop\Seminar6\Zadanie40\obj\Debug\net6.0\ref\Zadanie40.dll

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Seminar6\Zadanie 42\bin\Debug\net6.0\Zadanie 42.exe
+C:\Users\user\Desktop\Seminar6\Zadanie 42\bin\Debug\net6.0\Zadanie 42.deps.json
+C:\Users\user\Desktop\Seminar6\Zadanie 42\bin\Debug\net6.0\Zadanie 42.runtimeconfig.json
+C:\Users\user\Desktop\Seminar6\Zadanie 42\bin\Debug\net6.0\Zadanie 42.dll
+C:\Users\user\Desktop\Seminar6\Zadanie 42\bin\Debug\net6.0\Zadanie 42.pdb
+C:\Users\user\Desktop\Seminar6\Zadanie 42\obj\Debug\net6.0\Zadanie 42.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Seminar6\Zadanie 42\obj\Debug\net6.0\Zadanie 42.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Seminar6\Zadanie 42\obj\Debug\net6.0\Zadanie 42.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Seminar6\Zadanie 42\obj\Debug\net6.0\Zadanie 42.AssemblyInfo.cs
+C:\Users\user\Desktop\Seminar6\Zadanie 42\obj\Debug\net6.0\Zadanie 42.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Seminar6\Zadanie 42\obj\Debug\net6.0\Zadanie 42.dll
+C:\Users\user\Desktop\Seminar6\Zadanie 42\obj\Debug\net6.0\refint\Zadanie 42.dll
+C:\Users\user\Desktop\Seminar6\Zadanie 42\obj\Debug\net6.0\Zadanie 42.pdb
+C:\Users\user\Desktop\Seminar6\Zadanie 42\obj\Debug\net6.0\Zadanie 42.genruntimeconfig.cache
+C:\Users\user\Desktop\Seminar6\Zadanie 42\obj\Debug\net6.0\ref\Zadanie 42.dll

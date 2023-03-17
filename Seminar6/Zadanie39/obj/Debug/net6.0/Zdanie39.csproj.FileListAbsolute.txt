@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Seminar6\Zdanie39\bin\Debug\net6.0\Zdanie39.exe
+C:\Users\user\Desktop\Seminar6\Zdanie39\bin\Debug\net6.0\Zdanie39.deps.json
+C:\Users\user\Desktop\Seminar6\Zdanie39\bin\Debug\net6.0\Zdanie39.runtimeconfig.json
+C:\Users\user\Desktop\Seminar6\Zdanie39\bin\Debug\net6.0\Zdanie39.dll
+C:\Users\user\Desktop\Seminar6\Zdanie39\bin\Debug\net6.0\Zdanie39.pdb
+C:\Users\user\Desktop\Seminar6\Zdanie39\obj\Debug\net6.0\Zdanie39.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Seminar6\Zdanie39\obj\Debug\net6.0\Zdanie39.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Seminar6\Zdanie39\obj\Debug\net6.0\Zdanie39.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Seminar6\Zdanie39\obj\Debug\net6.0\Zdanie39.AssemblyInfo.cs
+C:\Users\user\Desktop\Seminar6\Zdanie39\obj\Debug\net6.0\Zdanie39.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Seminar6\Zdanie39\obj\Debug\net6.0\Zdanie39.dll
+C:\Users\user\Desktop\Seminar6\Zdanie39\obj\Debug\net6.0\refint\Zdanie39.dll
+C:\Users\user\Desktop\Seminar6\Zdanie39\obj\Debug\net6.0\Zdanie39.pdb
+C:\Users\user\Desktop\Seminar6\Zdanie39\obj\Debug\net6.0\Zdanie39.genruntimeconfig.cache
+C:\Users\user\Desktop\Seminar6\Zdanie39\obj\Debug\net6.0\ref\Zdanie39.dll

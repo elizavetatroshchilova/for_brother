@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Seminar4\Zanyatie\bin\Debug\net6.0\Zanyatie.exe
+C:\Users\user\Desktop\Seminar4\Zanyatie\bin\Debug\net6.0\Zanyatie.deps.json
+C:\Users\user\Desktop\Seminar4\Zanyatie\bin\Debug\net6.0\Zanyatie.runtimeconfig.json
+C:\Users\user\Desktop\Seminar4\Zanyatie\bin\Debug\net6.0\Zanyatie.dll
+C:\Users\user\Desktop\Seminar4\Zanyatie\bin\Debug\net6.0\Zanyatie.pdb
+C:\Users\user\Desktop\Seminar4\Zanyatie\obj\Debug\net6.0\Zanyatie.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Seminar4\Zanyatie\obj\Debug\net6.0\Zanyatie.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Seminar4\Zanyatie\obj\Debug\net6.0\Zanyatie.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Seminar4\Zanyatie\obj\Debug\net6.0\Zanyatie.AssemblyInfo.cs
+C:\Users\user\Desktop\Seminar4\Zanyatie\obj\Debug\net6.0\Zanyatie.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Seminar4\Zanyatie\obj\Debug\net6.0\Zanyatie.dll
+C:\Users\user\Desktop\Seminar4\Zanyatie\obj\Debug\net6.0\refint\Zanyatie.dll
+C:\Users\user\Desktop\Seminar4\Zanyatie\obj\Debug\net6.0\Zanyatie.pdb
+C:\Users\user\Desktop\Seminar4\Zanyatie\obj\Debug\net6.0\Zanyatie.genruntimeconfig.cache
+C:\Users\user\Desktop\Seminar4\Zanyatie\obj\Debug\net6.0\ref\Zanyatie.dll

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\seminar5\Zadanie35\obj\Debug\net6.0\Zadanie35.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\seminar5\Zadanie35\obj\Debug\net6.0\Zadanie35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\seminar5\Zadanie35\obj\Debug\net6.0\Zadanie35.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\seminar5\Zadanie35\obj\Debug\net6.0\Zadanie35.AssemblyInfo.cs
+C:\Users\user\Desktop\seminar5\Zadanie35\obj\Debug\net6.0\Zadanie35.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\seminar5\Zadanie35\bin\Debug\net6.0\Zadanie35.exe
+C:\Users\user\Desktop\seminar5\Zadanie35\bin\Debug\net6.0\Zadanie35.deps.json
+C:\Users\user\Desktop\seminar5\Zadanie35\bin\Debug\net6.0\Zadanie35.runtimeconfig.json
+C:\Users\user\Desktop\seminar5\Zadanie35\bin\Debug\net6.0\Zadanie35.dll
+C:\Users\user\Desktop\seminar5\Zadanie35\bin\Debug\net6.0\Zadanie35.pdb
+C:\Users\user\Desktop\seminar5\Zadanie35\obj\Debug\net6.0\Zadanie35.dll
+C:\Users\user\Desktop\seminar5\Zadanie35\obj\Debug\net6.0\refint\Zadanie35.dll
+C:\Users\user\Desktop\seminar5\Zadanie35\obj\Debug\net6.0\Zadanie35.pdb
+C:\Users\user\Desktop\seminar5\Zadanie35\obj\Debug\net6.0\Zadanie35.genruntimeconfig.cache
+C:\Users\user\Desktop\seminar5\Zadanie35\obj\Debug\net6.0\ref\Zadanie35.dll

@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Seminar6\cozdanieMassivaSLubimZnacheniem\bin\Debug\net6.0\cozdanieMassivaSLubimZnacheniem.exe
+C:\Users\user\Desktop\Seminar6\cozdanieMassivaSLubimZnacheniem\bin\Debug\net6.0\cozdanieMassivaSLubimZnacheniem.deps.json
+C:\Users\user\Desktop\Seminar6\cozdanieMassivaSLubimZnacheniem\bin\Debug\net6.0\cozdanieMassivaSLubimZnacheniem.runtimeconfig.json
+C:\Users\user\Desktop\Seminar6\cozdanieMassivaSLubimZnacheniem\bin\Debug\net6.0\cozdanieMassivaSLubimZnacheniem.dll
+C:\Users\user\Desktop\Seminar6\cozdanieMassivaSLubimZnacheniem\bin\Debug\net6.0\cozdanieMassivaSLubimZnacheniem.pdb
+C:\Users\user\Desktop\Seminar6\cozdanieMassivaSLubimZnacheniem\obj\Debug\net6.0\cozdanieMassivaSLubimZnacheniem.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Seminar6\cozdanieMassivaSLubimZnacheniem\obj\Debug\net6.0\cozdanieMassivaSLubimZnacheniem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Seminar6\cozdanieMassivaSLubimZnacheniem\obj\Debug\net6.0\cozdanieMassivaSLubimZnacheniem.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Seminar6\cozdanieMassivaSLubimZnacheniem\obj\Debug\net6.0\cozdanieMassivaSLubimZnacheniem.AssemblyInfo.cs
+C:\Users\user\Desktop\Seminar6\cozdanieMassivaSLubimZnacheniem\obj\Debug\net6.0\cozdanieMassivaSLubimZnacheniem.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Seminar6\cozdanieMassivaSLubimZnacheniem\obj\Debug\net6.0\cozdanieMassivaSLubimZnacheniem.dll
+C:\Users\user\Desktop\Seminar6\cozdanieMassivaSLubimZnacheniem\obj\Debug\net6.0\refint\cozdanieMassivaSLubimZnacheniem.dll
+C:\Users\user\Desktop\Seminar6\cozdanieMassivaSLubimZnacheniem\obj\Debug\net6.0\cozdanieMassivaSLubimZnacheniem.pdb
+C:\Users\user\Desktop\Seminar6\cozdanieMassivaSLubimZnacheniem\obj\Debug\net6.0\cozdanieMassivaSLubimZnacheniem.genruntimeconfig.cache
+C:\Users\user\Desktop\Seminar6\cozdanieMassivaSLubimZnacheniem\obj\Debug\net6.0\ref\cozdanieMassivaSLubimZnacheniem.dll

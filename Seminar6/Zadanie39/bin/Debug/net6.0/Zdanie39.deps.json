@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Zdanie39/1.0.0": {
+        "runtime": {
+          "Zdanie39.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Zdanie39/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

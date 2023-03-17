@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Seminar6\OtvetiNaVoprosi\bin\Debug\net6.0\OtvetiNaVoprosi.exe
+C:\Users\user\Desktop\Seminar6\OtvetiNaVoprosi\bin\Debug\net6.0\OtvetiNaVoprosi.deps.json
+C:\Users\user\Desktop\Seminar6\OtvetiNaVoprosi\bin\Debug\net6.0\OtvetiNaVoprosi.runtimeconfig.json
+C:\Users\user\Desktop\Seminar6\OtvetiNaVoprosi\bin\Debug\net6.0\OtvetiNaVoprosi.dll
+C:\Users\user\Desktop\Seminar6\OtvetiNaVoprosi\bin\Debug\net6.0\OtvetiNaVoprosi.pdb
+C:\Users\user\Desktop\Seminar6\OtvetiNaVoprosi\obj\Debug\net6.0\OtvetiNaVoprosi.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Seminar6\OtvetiNaVoprosi\obj\Debug\net6.0\OtvetiNaVoprosi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Seminar6\OtvetiNaVoprosi\obj\Debug\net6.0\OtvetiNaVoprosi.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Seminar6\OtvetiNaVoprosi\obj\Debug\net6.0\OtvetiNaVoprosi.AssemblyInfo.cs
+C:\Users\user\Desktop\Seminar6\OtvetiNaVoprosi\obj\Debug\net6.0\OtvetiNaVoprosi.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Seminar6\OtvetiNaVoprosi\obj\Debug\net6.0\OtvetiNaVoprosi.dll
+C:\Users\user\Desktop\Seminar6\OtvetiNaVoprosi\obj\Debug\net6.0\refint\OtvetiNaVoprosi.dll
+C:\Users\user\Desktop\Seminar6\OtvetiNaVoprosi\obj\Debug\net6.0\OtvetiNaVoprosi.pdb
+C:\Users\user\Desktop\Seminar6\OtvetiNaVoprosi\obj\Debug\net6.0\OtvetiNaVoprosi.genruntimeconfig.cache
+C:\Users\user\Desktop\Seminar6\OtvetiNaVoprosi\obj\Debug\net6.0\ref\OtvetiNaVoprosi.dll

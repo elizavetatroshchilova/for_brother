@@ -1,0 +1,15 @@
+C:\Users\user\Desktop\Seminar6\Zadanie45\bin\Debug\net6.0\Zadanie45.exe
+C:\Users\user\Desktop\Seminar6\Zadanie45\bin\Debug\net6.0\Zadanie45.deps.json
+C:\Users\user\Desktop\Seminar6\Zadanie45\bin\Debug\net6.0\Zadanie45.runtimeconfig.json
+C:\Users\user\Desktop\Seminar6\Zadanie45\bin\Debug\net6.0\Zadanie45.dll
+C:\Users\user\Desktop\Seminar6\Zadanie45\bin\Debug\net6.0\Zadanie45.pdb
+C:\Users\user\Desktop\Seminar6\Zadanie45\obj\Debug\net6.0\Zadanie45.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\Seminar6\Zadanie45\obj\Debug\net6.0\Zadanie45.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\Desktop\Seminar6\Zadanie45\obj\Debug\net6.0\Zadanie45.AssemblyInfoInputs.cache
+C:\Users\user\Desktop\Seminar6\Zadanie45\obj\Debug\net6.0\Zadanie45.AssemblyInfo.cs
+C:\Users\user\Desktop\Seminar6\Zadanie45\obj\Debug\net6.0\Zadanie45.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\Seminar6\Zadanie45\obj\Debug\net6.0\Zadanie45.dll
+C:\Users\user\Desktop\Seminar6\Zadanie45\obj\Debug\net6.0\refint\Zadanie45.dll
+C:\Users\user\Desktop\Seminar6\Zadanie45\obj\Debug\net6.0\Zadanie45.pdb
+C:\Users\user\Desktop\Seminar6\Zadanie45\obj\Debug\net6.0\Zadanie45.genruntimeconfig.cache
+C:\Users\user\Desktop\Seminar6\Zadanie45\obj\Debug\net6.0\ref\Zadanie45.dll
